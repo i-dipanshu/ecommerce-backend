@@ -28,16 +28,16 @@
 
 ## Project Background
 
-* The E-commerce sector is one of the fastest growing industries in today's world. This rapid growth comes with great competition.
-* This brings far greater challenge that a developer to meet the business standard.
+* The E-commerce sector is one of the fastest growing sectors in today's world. 
+* This brings far greater challenge that a developer need to meet cutting-edge commercial requirement.
 * I build this project in order to test the limit of my skill in Web development.
 
 ## Awaited Feature
-* Some of the feature that I'd would like to add in near future
-   * Payment gateway for payments
+* Some of the feature that I'd like to add in near future
+   * Payment gateway for payments using `RazorPay`
    * Google and Apple Authorization using `Passport.js`
    * Realtime Customer Chat Service using  `socket.io`
-   * Implement cloud binary servers for storing images 
+   * Implement cloud binary servers for storing images .
 
 
 ## Contribution Guide
