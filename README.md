@@ -1,4 +1,4 @@
-## E-commerce Backend Server in Node.js
+## E-commerce Application Server in Node.js
 
 * This web server is build for an E-commerce in Node.js.
 * It uses `express` framework for Node.js and `mongoose` for mongodb.
