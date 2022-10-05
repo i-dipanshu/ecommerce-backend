@@ -33,11 +33,13 @@
 * I build this project in order to test the limit of my skill in Web development.
 
 ## Awaited Feature
-* Some of the feature that I'd like to add in near future
-   * Payment gateway for payments using `RazorPay`
-   * Google and Apple Authorization using `Passport.js`
-   * Realtime Customer Chat Service using  `socket.io`
-   * Implement cloud binary servers for storing images .
+
+
+- [ ] Payment gateway for payments using `RazorPay`
+
+- [ ] Google and Apple Authorization using `Passport.js`
+- [ ] Realtime Customer Chat Service using  `socket.io`
+- [ ] Implement servers for hosting images .
 
 
 ## Contribution Guide
@@ -50,7 +52,7 @@ WEBSITE_NAME =
 
 PORT = 
 
-DB_URI = mongodb://localhost:27017/
+DB_URI = mongodb://<hostname>:27017/<db_name>
 
 JWT_SECRET = 
 
@@ -74,4 +76,4 @@ SMTP_PASSWORD=
 ```
 npm run dev
 ```
-* Feel free to reach me, if you got any queries
+* Feel free to raise a issue 
