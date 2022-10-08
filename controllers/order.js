@@ -98,7 +98,7 @@ export const updateOrderStatus = handleAsyncErrors(async(req, res, next) => {
   // update the status of the order
   order.orderStatus = req.body.status;
 
-  // if delivered, add a deliveredAt feild
+  // if delivered, add a deliveredAt field
   if (req.body.status === "Delivered") {
     order.deliveredAt = Date.now();
   }
