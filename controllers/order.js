@@ -119,7 +119,7 @@ const updateStock = async(id, quantity) => {
   // find the product using its id
   const product = await Product.findById(id);
 
-  // decrese the stock
+  // decrease the stock
   product.stock -= quantity;
 
   // save the product
