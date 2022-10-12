@@ -22,7 +22,7 @@
 
 ## REST Api's
 
-* Base Address = http://<hostname>:port/api/v1
+* Base Address = http://< hostname >:port/api/v1
 * Routes catagories
     - **/**- routes every body can access, however some routes can accessed only if you are logged in.
     - **/admin** - routes to resources that can only accessed by admin
