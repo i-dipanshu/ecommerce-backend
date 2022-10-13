@@ -29,7 +29,6 @@
 
 <img src="https://user-images.githubusercontent.com/84374342/193429900-badff158-494d-4af4-b16d-0245b36f87cf.png"/>
 
-<!-- ## Folder Structure -->
 
 ## Awaited Feature
 
